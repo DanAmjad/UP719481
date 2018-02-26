@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  UP719481
 //
-//  Created by Dan on 26/02/2018.
+// 
 //
 
 import UIKit

@@ -16,6 +16,7 @@
 		37C7AC6920444A2B002DF3E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37C7AC6720444A2B002DF3E4 /* LaunchScreen.storyboard */; };
 		37C7AC7420444A2B002DF3E4 /* UP719481Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C7AC7320444A2B002DF3E4 /* UP719481Tests.swift */; };
 		37C7AC7F20444A2C002DF3E4 /* UP719481UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C7AC7E20444A2C002DF3E4 /* UP719481UITests.swift */; };
+		37C7AC982044580D002DF3E4 /* uopLogo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 37C7AC972044580D002DF3E4 /* uopLogo.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		37C7AC7A20444A2C002DF3E4 /* UP719481UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UP719481UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37C7AC7E20444A2C002DF3E4 /* UP719481UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UP719481UITests.swift; sourceTree = "<group>"; };
 		37C7AC8020444A2C002DF3E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37C7AC972044580D002DF3E4 /* uopLogo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = uopLogo.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				37C7AC6520444A2B002DF3E4 /* Assets.xcassets */,
 				37C7AC6720444A2B002DF3E4 /* LaunchScreen.storyboard */,
 				37C7AC6A20444A2B002DF3E4 /* Info.plist */,
+				37C7AC9920445811002DF3E4 /* Images */,
 			);
 			path = UP719481;
 			sourceTree = "<group>";
@@ -129,6 +132,14 @@
 				37C7AC8020444A2C002DF3E4 /* Info.plist */,
 			);
 			path = UP719481UITests;
+			sourceTree = "<group>";
+		};
+		37C7AC9920445811002DF3E4 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				37C7AC972044580D002DF3E4 /* uopLogo.jpg */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,6 +251,7 @@
 				37C7AC6920444A2B002DF3E4 /* LaunchScreen.storyboard in Resources */,
 				37C7AC6620444A2B002DF3E4 /* Assets.xcassets in Resources */,
 				37C7AC6420444A2B002DF3E4 /* Main.storyboard in Resources */,
+				37C7AC982044580D002DF3E4 /* uopLogo.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
